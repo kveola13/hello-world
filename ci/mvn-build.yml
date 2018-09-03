@@ -8,4 +8,4 @@ inputs:
 
 run:
   path: bash
-  args: git-repo/mvn-build.sh
+  args: [git-repo/ci/mvn-build.sh]
