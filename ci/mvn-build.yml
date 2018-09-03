@@ -7,5 +7,4 @@ inputs:
   - name: git-repo
 
 run:
-  path: bash
-  args: [git-repo/mvn-build.sh]
+  path: ls
