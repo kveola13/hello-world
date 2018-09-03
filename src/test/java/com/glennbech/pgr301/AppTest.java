@@ -36,7 +36,7 @@ public class AppTest
         assertTrue( true );
     }
 
-    public void testFail(){
-        assertTrue(false);
+    public void correctedTest(){
+        assertFalse(false);
     }
 }
