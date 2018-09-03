@@ -37,6 +37,6 @@ public class AppTest
     }
 
     public void correctedTest(){
-        assertTrue(false);
+        assertFalse(false);
     }
 }
